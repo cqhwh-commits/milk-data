@@ -1,0 +1,20 @@
+[
+    {
+        "brand": "飞鹤",
+        "name": "星飞帆 1段",
+        "version": "国行",
+        "standard": "新国标",
+        "stage": "1段",
+        "price": 368,
+        "type": "牛奶粉"
+    },
+    {
+        "brand": "爱他美",
+        "name": "德国版 PRE",
+        "version": "海外",
+        "standard": "欧盟标准",
+        "stage": "1段",
+        "price": 238,
+        "type": "牛奶粉"
+    }
+]
